@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <h1>Working on react is 🆒</h1>
+     <h1>Working on react is super 🆒</h1>
     </div>
   );
 }
